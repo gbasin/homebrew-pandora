@@ -1,8 +1,8 @@
 class Pandora < Formula
   desc "A scheduler that routes a repository's heavy commands off the machine agents type on"
   homepage "https://github.com/gbasin/pandora"
-  url "https://github.com/gbasin/pandora/releases/download/v0.3.28/pandora-0.3.28.tar.gz"
-  sha256 "6768ce7e77de0726d72ffeebbc60a2125dde7d24b4d1b12858fa82b6650c6b14"
+  url "https://github.com/gbasin/pandora/releases/download/v0.3.29/pandora-0.3.29.tar.gz"
+  sha256 "98814b237fd4eef9a3e2de868b4da6ea1f9e7003db44f25dc0e34fa1c9406ea2"
   license "MIT"
 
   depends_on "python@3.13"
